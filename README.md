@@ -1,6 +1,5 @@
 <div align="center">
 ### Hospital DBMS Operations Console
-#### Designed & crafted by **Syed Daniyal Haider Naqvi**
 
 ![Stack](https://img.shields.io/badge/Stack-Vite%20%7C%20React%20%7C%20Express%20%7C%20MongoDB-0a9396)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -133,6 +132,5 @@ Mock auth ensures the demo remains usable offline. Only the creator’s credenti
 4. Expose the Express port through your reverse proxy and configure `VITE_API_BASE_URL` / `VITE_WS_URL` when serving the client separately.
 
 ## 👤 Author
-
-Crafted with ❤️ by **Syed Daniyal Haider Naqvi**. Feel free to fork, extend, and share your own hospital analytics ideas—PRs and feedback are always welcome!
+Feel free to fork, extend, and share your own hospital analytics ideas—PRs and feedback are always welcome!
 
